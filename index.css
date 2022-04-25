@@ -1,0 +1,50 @@
+* {
+    margin: 0 auto;
+}
+
+h1 {
+    margin-bottom: 25px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: slateblue;
+}
+
+table {
+    border: 1px solid salmon;
+    border-collapse: separate;
+    box-sizing: border-box;
+    display: table;
+    width: 600px;
+    margin-bottom: 20px;
+    line-height: 1.3;
+}
+
+thead {
+    background-color: pink;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+tbody {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+td {
+    border-top: 1px solid salmon;
+    border-right: 1px solid salmon;
+}
+
+.tag {
+    color: green;
+}
+
+.attr {
+    color: goldenrod;
+}
